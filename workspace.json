@@ -1,0 +1,119 @@
+[
+  {
+    "createdDate": "2023-07-21T01:17:31.0509452Z",
+    "customerId": "d9965e6a-15ea-41ba-a44e-5b853f96155b",
+    "defaultDataCollectionRuleResourceId": null,
+    "eTag": null,
+    "features": {
+      "clusterResourceId": null,
+      "disableLocalAuth": null,
+      "enableDataExport": null,
+      "enableLogAccessUsingOnlyResourcePermissions": true,
+      "immediatePurgeDataOn30Days": true,
+      "legacy": 0,
+      "searchVersion": 1
+    },
+    "forceCmkForQuery": null,
+    "id": "/subscriptions/f0b9ad03-d225-4217-9bfc-4b0773b2650e/resourceGroups/TestRG01/providers/Microsoft.OperationalInsights/workspaces/MSSen2Gorod4wczng56wu",
+    "location": "eastus",
+    "modifiedDate": "2023-07-21T01:17:31.0509452Z",
+    "name": "MSSen2Gorod4wczng56wu",
+    "privateLinkScopedResources": null,
+    "provisioningState": "Succeeded",
+    "publicNetworkAccessForIngestion": "Enabled",
+    "publicNetworkAccessForQuery": "Enabled",
+    "resourceGroup": "TestRG01",
+    "retentionInDays": 30,
+    "sku": {
+      "capacityReservationLevel": null,
+      "lastSkuUpdate": "2023-07-21T01:17:31.0509452Z",
+      "name": "PerGB2018"
+    },
+    "systemData": null,
+    "tags": null,
+    "type": "Microsoft.OperationalInsights/workspaces",
+    "workspaceCapping": {
+      "dailyQuotaGb": -1,
+      "dataIngestionStatus": "RespectQuota",
+      "quotaNextResetTime": "2023-07-21T22:00:00Z"
+    }
+  },
+  {
+    "createdDate": "2023-07-21T01:25:57.6046991Z",
+    "customerId": "9e6a8154-e9ba-4fb2-9150-a0679405641a",
+    "defaultDataCollectionRuleResourceId": null,
+    "eTag": null,
+    "features": {
+      "clusterResourceId": null,
+      "disableLocalAuth": null,
+      "enableDataExport": null,
+      "enableLogAccessUsingOnlyResourcePermissions": true,
+      "immediatePurgeDataOn30Days": true,
+      "legacy": 0,
+      "searchVersion": 1
+    },
+    "forceCmkForQuery": null,
+    "id": "/subscriptions/f0b9ad03-d225-4217-9bfc-4b0773b2650e/resourceGroups/TestRG01/providers/Microsoft.OperationalInsights/workspaces/MSSen2Gojaypnrghzns4g",
+    "location": "eastus",
+    "modifiedDate": "2023-07-21T01:25:57.6046991Z",
+    "name": "MSSen2Gojaypnrghzns4g",
+    "privateLinkScopedResources": null,
+    "provisioningState": "Succeeded",
+    "publicNetworkAccessForIngestion": "Enabled",
+    "publicNetworkAccessForQuery": "Enabled",
+    "resourceGroup": "TestRG01",
+    "retentionInDays": 30,
+    "sku": {
+      "capacityReservationLevel": null,
+      "lastSkuUpdate": "2023-07-21T01:25:57.6046991Z",
+      "name": "PerGB2018"
+    },
+    "systemData": null,
+    "tags": null,
+    "type": "Microsoft.OperationalInsights/workspaces",
+    "workspaceCapping": {
+      "dailyQuotaGb": -1,
+      "dataIngestionStatus": "RespectQuota",
+      "quotaNextResetTime": "2023-07-21T18:00:00Z"
+    }
+  },
+  {
+    "createdDate": "2022-12-28T04:27:08Z",
+    "customerId": "09e97d1f-19b5-49bf-b7df-1e615ac6cce2",
+    "defaultDataCollectionRuleResourceId": null,
+    "eTag": null,
+    "features": {
+      "clusterResourceId": null,
+      "disableLocalAuth": null,
+      "enableDataExport": null,
+      "enableLogAccessUsingOnlyResourcePermissions": true,
+      "immediatePurgeDataOn30Days": null,
+      "legacy": 0,
+      "searchVersion": 1
+    },
+    "forceCmkForQuery": null,
+    "id": "/subscriptions/f0b9ad03-d225-4217-9bfc-4b0773b2650e/resourcegroups/testrg01/providers/microsoft.operationalinsights/workspaces/defaultlaworkspace",
+    "location": "eastus",
+    "modifiedDate": "2023-02-07T21:56:13.0507542Z",
+    "name": "DefaultLAWorkspace",
+    "privateLinkScopedResources": null,
+    "provisioningState": "Succeeded",
+    "publicNetworkAccessForIngestion": "Enabled",
+    "publicNetworkAccessForQuery": "Enabled",
+    "resourceGroup": "testrg01",
+    "retentionInDays": 30,
+    "sku": {
+      "capacityReservationLevel": null,
+      "lastSkuUpdate": "2022-12-28T04:27:07Z",
+      "name": "pergb2018"
+    },
+    "systemData": null,
+    "tags": {},
+    "type": "Microsoft.OperationalInsights/workspaces",
+    "workspaceCapping": {
+      "dailyQuotaGb": -1,
+      "dataIngestionStatus": "RespectQuota",
+      "quotaNextResetTime": "2023-02-08T17:00:00Z"
+    }
+  }
+]

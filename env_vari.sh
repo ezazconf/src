@@ -1,0 +1,1 @@
+export QUERY2="StorageBlobLogs | where OperationName contains 'property' | where ObjectKey contains 'index.html'"
